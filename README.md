@@ -28,6 +28,7 @@ Here, you will find some introductions to the main datasets we expect to be util
 ## Other relevant data
 
   - [Official Danish COVID-19 surveillance data](https://covid19.ssi.dk/overvagningsdata/download-fil-med-overvaagningdata)
+  - [Official Danish COVID-19 vaccination data](https://covid19.ssi.dk/overvagningsdata/download-fil-med-overvaagningdata)
   
   - [Google mobility data](https://www.google.com/covid19/mobility/) 
     ([Interactive dashboard](https://datastudio.google.com/s/usF-uIdha8w))
